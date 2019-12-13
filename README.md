@@ -1,4 +1,7 @@
 # CTRvw
+<a href="https://doi.org/10.5281/zenodo.3575182"><img src="https://zenodo.org/badge/160984198.svg" alt="DOI"></a>
+
+### Features
 - Private Big datasets
 - Vowpal Wabbit wrapper for Click-Through Rate (CTR)
 - Various Spark drivers
